@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "lucono.karma-test-explorer",
+    "angular.ng-template",
+    "johnpapa.angular2",
+    "alexiv.vscode-angular2-files",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "shardulm94.trailing-spaces"
+  ]
+}
